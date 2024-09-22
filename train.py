@@ -2,7 +2,7 @@
 Train our Tokenizers on some data, just to see them in action.
 The whole thing runs in ~25 seconds on my laptop.
 """
-
+ 
 import os
 import time
 import argparse
